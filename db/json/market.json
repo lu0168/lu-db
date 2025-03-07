@@ -1,6 +1,6 @@
 [
   {
-    "name": "推荐更新",
+    "name": "推荐",
     "list": [
   {
         "name": "应用管家1.31",
@@ -15,16 +15,22 @@
         "version": "OK影视TV"
   },
   {
-        "name": "电视直播",
+        "name": "酷9直播1.6.8",
+  "url": "https://d.kstore.dev/download/8344/k9.apk",
+        "icon": "https://d.kstore.dev/download/8344/k9.png",
+        "version": "酷9直播"
+  },
+  {
+        "name": "音速电视直播",
   "url": "https://d.kstore.dev/download/8344/ys.apk",
         "icon": "https://d.kstore.dev/download/8344/ys.png",
         "version": "音速"
   },
   {
-        "name": "酷9直播1.6.8",
-  "url": "https://d.kstore.dev/download/8344/k9.apk",
-        "icon": "https://d.kstore.dev/download/8344/k9.png",
-        "version": "酷9直播"
+        "name": "小飞电视直播",
+  "url": "https://d.kstore.dev/download/8344/xf.apk",
+        "icon": "https://d.kstore.dev/download/8344/xf.png",
+        "version": "小飞电视"
   }
   ]
   }
