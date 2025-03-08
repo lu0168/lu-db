@@ -31,7 +31,13 @@
   "url": "https://d.kstore.dev/download/8344/xf.apk",
         "icon": "https://d.kstore.dev/download/8344/xf.png",
         "version": "小飞电视"
-  }
+  },
+  {
+        "name": "OURTV",
+  "url": "https://d.kstore.dev/download/8344/ourtv.apk",
+        "icon": "https://d.kstore.dev/download/8344/our.png",
+        "version": "OURTV"
+  }      
   ]
   }
 ]
