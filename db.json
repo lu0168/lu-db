@@ -11,6 +11,14 @@
       "searchable": 0,
       "ext": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/db/json/video_data.json"
     },  
+            {
+            "key": "可可影视",
+            "name": "🎦可可｜影视",
+            "type": 3,
+             "jar": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/db/spider.jar",
+            "api": "csp_XBPQ",
+            "ext": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/db/json/可可影视.json"
+        },
         {
             "key": "低端影视",
             "name": "🎦低端｜影视",
