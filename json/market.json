@@ -4,44 +4,32 @@
     "list": [
   {
         "name": "应用管家1.31",
-  "url": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/yygj.apk",
-        "icon": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/yygj.png",
+  "url": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/zysd/yygj.apk",
+        "icon": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/zysd/yygj.png",
         "version": "电视应用管家"
   },
   {
         "name": "OK影视内置",
-  "url": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/oktv.apk",
-        "icon": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/oktv.png",
+  "url": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/zysd/oktv.apk",
+        "icon": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/zysd/oktv.png",
         "version": "OK影视TV"
   },
   {
-        "name": "音速",
-  "url": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/ys.apk",
-        "icon": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/ys.png",
-        "version": "音速"
-  },
-  {
         "name": "OURTV",
-  "url": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/ourtv.apk",
-        "icon": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/ourtv.png",
+  "url": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/zysd/ourtv.apk",
+        "icon": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/zysd/ourtv.png",
         "version": "OURTV"
   },
   {
         "name": "易发TV",
-  "url": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/yifa.apk",
-        "icon": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/yifa.png",
+  "url": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/zysd/yifa.apk",
+        "icon": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/zysd/yifa.png",
         "version": "易发TV"
   },
   {
-        "name": "小飞电视",
-  "url": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/xfds.apk",
-        "icon": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/xfds.png",
-        "version": "小飞电视"
-  },  
-  {
         "name": "酷9",
-  "url": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/ku9.apk",
-        "icon": "https://gitlab.com/lu0168/lu-db/-/raw/main/shop/ku9.png",
+  "url": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/zysd/ku9.apk",
+        "icon": "https://gh-proxy.com/https://github.com/lu0168/lu-db/raw/main/zysd/ku9.png",
         "version": "酷9"
   }  
   ]
